@@ -1,0 +1,6 @@
+{
+  "name": "Elder Triple Screen & Risk Control",
+  "description": "Alexander Elder 三重濾網交易系統與 2% / 6% 交易資金風險控管平台，支援台股與美股即時行情運算、大潮波浪漣漪三層濾網篩選與單筆交易規模估算。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
